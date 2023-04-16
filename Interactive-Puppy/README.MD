@@ -2,7 +2,7 @@
 
 HTML Display
 
-![](https://github.com/Dr-Banana/Interactive-Puppy/blob/main/Interactive-Puppy.gif)
+![](https://github.com/Dr-Banana/HTML-small-project/blob/main/Interactive-Puppy/Interactive-Puppy.gif)
 
 
 Require 4 key parts as `JS` input:
